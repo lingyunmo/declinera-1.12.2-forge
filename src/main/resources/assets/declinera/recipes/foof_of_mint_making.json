@@ -1,0 +1,19 @@
+{
+  "group": "declinera",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "declinera:mint"
+    },
+    {
+      "item": "declinera:mint"
+    },
+    {
+      "item": "declinera:mint"
+    }
+  ],
+  "result": {
+    "item": "declinera:food_of_mint",
+    "count": 1
+  }
+}

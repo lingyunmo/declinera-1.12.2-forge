@@ -1,0 +1,22 @@
+{
+  "group": "declinera",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "declinera:declinera_primary_core_part"
+    },
+    {
+      "item": "declinera:declinera_primary_core_part"
+    },
+    {
+      "item": "declinera:declinera_primary_core_part"
+    },
+    {
+      "item": "declinera:declinera_primary_core_part"
+    }
+  ],
+  "result": {
+    "item": "declinera:declinera_primary_core",
+    "count": 1
+  }
+}

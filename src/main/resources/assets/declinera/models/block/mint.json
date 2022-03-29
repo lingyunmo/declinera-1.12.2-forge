@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "declinera:blocks/mint",
+    "particle": "declinera:blocks/mint"
+  }
+}

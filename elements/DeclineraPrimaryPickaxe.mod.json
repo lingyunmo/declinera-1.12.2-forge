@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "declineraprimary_pickaxe",
+    "customModelName": "Normal",
+    "name": "DeclineraPrimary Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DeclineraBase"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 7,
+    "efficiency": 13.0,
+    "attackSpeed": 4.0,
+    "enchantability": 49,
+    "damageVsEntity": 14.0,
+    "usageCount": 1444,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:DeclineraPrimary"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

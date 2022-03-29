@@ -1,0 +1,42 @@
+{
+  "group": "declinera",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "declinera:declinera_primary"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "declinera:declinera_essential_ingot"
+    },
+    "4": {
+      "item": "declinera:declinera_base_core"
+    },
+    "5": {
+      "item": "declinera:declinera_essential_ingot"
+    },
+    "6": {
+      "item": "declinera:declinera_essential_ingot"
+    },
+    "7": {
+      "item": "declinera:declinera_essential_block"
+    },
+    "8": {
+      "item": "declinera:declinera_essential_ingot"
+    }
+  },
+  "result": {
+    "item": "declinera:declinera_base_compressor",
+    "count": 1
+  }
+}

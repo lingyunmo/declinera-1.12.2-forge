@@ -1,0 +1,37 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "mint_launcher",
+    "customModelName": "Normal",
+    "name": "Mint Launcher",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DeclineraBase"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Mint"
+    },
+    "shootConstantly": false,
+    "usageCount": 500,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": true,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 0.8,
+    "bulletDamage": 1.0,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Mint"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

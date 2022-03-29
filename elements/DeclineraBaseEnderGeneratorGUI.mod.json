@@ -1,0 +1,93 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Energy storage:",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Energy storage:",
+          "x": 141,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Power generation:",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Power generation:",
+          "x": 132,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<BNBT:number:Energy>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "<BNBT:number:Energy>",
+          "x": 222,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<BNBT:number:Generation>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "<BNBT:number:Generation>",
+          "x": 222,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Ender Generator",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Ender Generator",
+          "x": 177,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Speed:0.002 DE/s",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Speed:0.002 DE/s",
+          "x": 132,
+          "y": 53
+        }
+      }
+    ]
+  }
+}

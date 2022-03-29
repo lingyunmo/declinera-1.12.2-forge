@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "declinera:blocks/luzi_ore",
+    "particle": "declinera:blocks/luzi_ore"
+  }
+}

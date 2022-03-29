@@ -1,0 +1,1403 @@
+{
+  "id_map": {
+    "GUI": 4,
+    "ENTITY": 1
+  },
+  "mod_elements": [
+    {
+      "name": "DeclineraBase",
+      "type": "tab",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base"
+    },
+    {
+      "name": "DeclineraEssentialIngot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_ingot"
+    },
+    {
+      "name": "DeclineraEssentialOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_ore"
+    },
+    {
+      "name": "DeclineraEssentialBlock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_block"
+    },
+    {
+      "name": "DeclineraEssentialOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_ore_block_recipe"
+    },
+    {
+      "name": "DeclineraEssentialBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_block_ore_recipe"
+    },
+    {
+      "name": "DeclineraEssentialOreSmelting",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_ore_smelting"
+    },
+    {
+      "name": "DeclineraEssentialPickaxe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_pickaxe"
+    },
+    {
+      "name": "DeclineraEssentialAxe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_axe"
+    },
+    {
+      "name": "DeclineraEssentialSword",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_sword"
+    },
+    {
+      "name": "DeclineraEssentialShovel",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_shovel"
+    },
+    {
+      "name": "DeclineraEssentialHoe",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_hoe"
+    },
+    {
+      "name": "DeclineraEssentialPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_pickaxe_recipe"
+    },
+    {
+      "name": "DeclineraEssentialAxeRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_axe_recipe"
+    },
+    {
+      "name": "DeclineraEssentialSwordRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_sword_recipe"
+    },
+    {
+      "name": "DeclineraEssentialShovelRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_shovel_recipe"
+    },
+    {
+      "name": "DeclineraEssentialHoeRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_hoe_recipe"
+    },
+    {
+      "name": "DeclineraEssentialArmor",
+      "type": "armor",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DeclineraEssentialArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_armor_helmet_recipe"
+    },
+    {
+      "name": "DeclineraEssentialArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_armor_body_recipe"
+    },
+    {
+      "name": "DeclineraEssentialArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_armor_leggings_recipe"
+    },
+    {
+      "name": "DeclineraEssentialArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_essential_armor_boots_recipe"
+    },
+    {
+      "name": "Mint",
+      "type": "plant",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mint"
+    },
+    {
+      "name": "LuziDust",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_dust"
+    },
+    {
+      "name": "LuziOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_ore"
+    },
+    {
+      "name": "LuziBlock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_block"
+    },
+    {
+      "name": "LuziOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_ore_block_recipe"
+    },
+    {
+      "name": "LuziBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_block_ore_recipe"
+    },
+    {
+      "name": "LuziOreSmelting",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_ore_smelting"
+    },
+    {
+      "name": "LuziPickaxe",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_pickaxe"
+    },
+    {
+      "name": "LuziAxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_axe"
+    },
+    {
+      "name": "LuziSword",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_sword"
+    },
+    {
+      "name": "LuziShovel",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_shovel"
+    },
+    {
+      "name": "LuziHoe",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_hoe"
+    },
+    {
+      "name": "LuziPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_pickaxe_recipe"
+    },
+    {
+      "name": "LuziAxeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_axe_recipe"
+    },
+    {
+      "name": "LuziSwordRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_sword_recipe"
+    },
+    {
+      "name": "LuziShovelRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_shovel_recipe"
+    },
+    {
+      "name": "LuziHoeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_hoe_recipe"
+    },
+    {
+      "name": "LuziArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "LuziArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_armor_helmet_recipe"
+    },
+    {
+      "name": "LuziArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_armor_body_recipe"
+    },
+    {
+      "name": "LuziArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_armor_leggings_recipe"
+    },
+    {
+      "name": "LuziArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luzi_armor_boots_recipe"
+    },
+    {
+      "name": "DeclineraBasePackage",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_package"
+    },
+    {
+      "name": "DeclineraBasePackageGUI",
+      "type": "gui",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      },
+      "registry_name": "declinera_base_package_gui"
+    },
+    {
+      "name": "DeclineraBaseCore",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_core"
+    },
+    {
+      "name": "DeclineraBaseCoreMaking",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_core_making"
+    },
+    {
+      "name": "DeclineraBasePackageMaking",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_package_making"
+    },
+    {
+      "name": "DeclineraPrimaryCore",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_core"
+    },
+    {
+      "name": "DeclineraPrimaryCorePart",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_core_part"
+    },
+    {
+      "name": "DeclineraPrimaryCorePartMaking",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_core_part_making"
+    },
+    {
+      "name": "DeclineraPrimary",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary"
+    },
+    {
+      "name": "DeclineraPrimaryOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_ore"
+    },
+    {
+      "name": "DeclineraPrimaryBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_block"
+    },
+    {
+      "name": "DeclineraPrimaryOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_ore_block_recipe"
+    },
+    {
+      "name": "DeclineraPrimaryBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_block_ore_recipe"
+    },
+    {
+      "name": "DeclineraPrimaryOreSmelting",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_ore_smelting"
+    },
+    {
+      "name": "DeclineraPrimaryPickaxe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_pickaxe"
+    },
+    {
+      "name": "DeclineraPrimaryAxe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_axe"
+    },
+    {
+      "name": "DeclineraPrimarySword",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_sword"
+    },
+    {
+      "name": "DeclineraPrimaryShovel",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_shovel"
+    },
+    {
+      "name": "DeclineraPrimaryHoe",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_hoe"
+    },
+    {
+      "name": "DeclineraPrimaryPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_pickaxe_recipe"
+    },
+    {
+      "name": "DeclineraPrimaryAxeRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_axe_recipe"
+    },
+    {
+      "name": "DeclineraPrimarySwordRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_sword_recipe"
+    },
+    {
+      "name": "DeclineraPrimaryShovelRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_shovel_recipe"
+    },
+    {
+      "name": "DeclineraPrimaryHoeRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_hoe_recipe"
+    },
+    {
+      "name": "DeclineraPrimaryArmor",
+      "type": "armor",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DeclineraPrimaryArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_armor_helmet_recipe"
+    },
+    {
+      "name": "DeclineraPrimaryArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_armor_body_recipe"
+    },
+    {
+      "name": "DeclineraPrimaryArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_armor_leggings_recipe"
+    },
+    {
+      "name": "DeclineraPrimaryArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_primary_armor_boots_recipe"
+    },
+    {
+      "name": "MintLauncher",
+      "type": "gun",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      },
+      "registry_name": "mint_launcher"
+    },
+    {
+      "name": "FoodOfMint",
+      "type": "food",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "food_of_mint"
+    },
+    {
+      "name": "FoofOfMintMaking",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foof_of_mint_making"
+    },
+    {
+      "name": "DeclineraBaseCompressor",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_compressor"
+    },
+    {
+      "name": "DeclineraBaseCompressorGUI",
+      "type": "gui",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 2
+      },
+      "registry_name": "declinera_base_compressor_gui"
+    },
+    {
+      "name": "DeclineraBaseCompressorFangZhiFangKuaiShi",
+      "type": "procedure",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_compressor_fang_zhi_fang_kuai_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DeclineraBaseCompressorGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_compressor_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CompressCobblestone9x64",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compress_cobblestone_9x_64"
+    },
+    {
+      "name": "Process100One",
+      "type": "procedure",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "process_100_one",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Process100Two",
+      "type": "procedure",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "process_100_two",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Process100Three",
+      "type": "procedure",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "process_100_three",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Process100Four",
+      "type": "procedure",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "process_100_four",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Process100Five",
+      "type": "procedure",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "process_100_five",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Process100Six",
+      "type": "procedure",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "process_100_six",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DeclineraBaseCompressorCrafting",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_compressor_crafting"
+    },
+    {
+      "name": "DeclineraBaseEnderGenerator",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_ender_generator"
+    },
+    {
+      "name": "DeclineraBaseEnderGeneratorGUI",
+      "type": "gui",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 3
+      },
+      "registry_name": "declinera_base_ender_generator_gui"
+    },
+    {
+      "name": "DeclineraBaseEnderGeneratorFangZhiFangKuaiShi",
+      "type": "procedure",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_ender_generator_fang_zhi_fang_kuai_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DeclineraBaseEnderGeneratorGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_ender_generator_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DeclineraBasePackageFangZhiFangKuaiShi",
+      "type": "procedure",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_package_fang_zhi_fang_kuai_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DeclineraBasePackageGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_package_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DeclineraBaseShapeshiftorGUI",
+      "type": "gui",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 4
+      },
+      "registry_name": "declinera_base_shapeshiftor_gui"
+    },
+    {
+      "name": "DeclineraMiddleCore",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_middle_core"
+    },
+    {
+      "name": "DeclineraBaseShapeshiftorGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_shapeshiftor_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DeclineraBaseShapeshiftor",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_shapeshiftor"
+    },
+    {
+      "name": "MintLauncherCrafting",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mint_launcher_crafting"
+    },
+    {
+      "name": "DeclineraBaseShapeshiftorFangZhiFangKuaiShi",
+      "type": "procedure",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "declinera_base_shapeshiftor_fang_zhi_fang_kuai_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.mint_launcher.name": "Mint Launcher",
+      "item.declinera_primary_core_part.name": "Declinera Primary Core Part",
+      "item.declinera_essential_hoe.name": "DeclineraEssential Hoe",
+      "item.luzi_dust.name": "Luzi",
+      "item.luzi_armorboots.name": "Luzi Boots",
+      "item.declinera_primary.name": "DeclineraPrimary",
+      "item.declinera_essential_ingot.name": "DeclineraEssential",
+      "item.declinera_middle_core.name": "Declinera Middle Core",
+      "item.declinera_essential_sword.name": "DeclineraEssential Sword",
+      "tile.luzi_block.name": "Block of Luzi",
+      "tile.declinera_primary_ore.name": "DeclineraPrimary Ore",
+      "item.luzi_shovel.name": "Luzi Shovel",
+      "item.luzi_armorlegs.name": "Luzi Leggings",
+      "item.declinera_primary_core.name": "Declinera Primary Core",
+      "tile.compress_cobblestone_9x_64.name": "Compress Cobblestone 9x 6 4",
+      "item.luzi_sword.name": "Luzi Sword",
+      "item.declinera_primary_shovel.name": "DeclineraPrimary Shovel",
+      "item.declinera_primary_hoe.name": "DeclineraPrimary Hoe",
+      "item.declinera_essential_armorbody.name": "DeclineraEssential Chestplate",
+      "item.luzi_pickaxe.name": "Luzi Pickaxe",
+      "item.declinera_primary_armorboots.name": "DeclineraPrimary Boots",
+      "item.declinera_essential_axe.name": "DeclineraEssential Axe",
+      "item.declinera_primary_sword.name": "DeclineraPrimary Sword",
+      "item.declinera_primary_armorlegs.name": "DeclineraPrimary Leggings",
+      "item.luzi_armorhelmet.name": "Luzi Helmet",
+      "item.declinera_essential_armorhelmet.name": "DeclineraEssential Helmet",
+      "tile.luzi_ore.name": "Luzi Ore",
+      "item.food_of_mint.name": "Food Of Mint",
+      "item.declinera_essential_armorlegs.name": "DeclineraEssential Leggings",
+      "tile.declinera_base_shapeshiftor.name": "Declinera Base Shapeshiftor",
+      "item.declinera_primary_pickaxe.name": "DeclineraPrimary Pickaxe",
+      "item.declinera_primary_armorhelmet.name": "DeclineraPrimary Helmet",
+      "tile.declinera_primary_block.name": "Block of DeclineraPrimary",
+      "tile.declinera_base_package.name": "Declinera Base Package",
+      "item.luzi_axe.name": "Luzi Axe",
+      "item.declinera_primary_axe.name": "DeclineraPrimary Axe",
+      "item.declinera_primary_armorbody.name": "DeclineraPrimary Chestplate",
+      "item.declinera_essential_pickaxe.name": "DeclineraEssential Pickaxe",
+      "tile.declinera_essential_block.name": "Block of DeclineraEssential",
+      "tile.mint.name": "Mint",
+      "itemGroup.tabdeclinera_base": "Declinera Base",
+      "item.declinera_essential_armorboots.name": "DeclineraEssential Boots",
+      "tile.declinera_base_ender_generator.name": "Declinera Base Ender Generator",
+      "tile.declinera_base_compressor.name": "Declinera Base Compressor",
+      "tile.declinera_essential_ore.name": "DeclineraEssential Ore",
+      "item.declinera_essential_shovel.name": "DeclineraEssential Shovel",
+      "item.luzi_armorbody.name": "Luzi Chestplate",
+      "item.luzi_hoe.name": "Luzi Hoe",
+      "item.declinera_base_core.name": "Declinera Base Core"
+    },
+    "zh_cn": {
+      "item.mint_launcher.name": "大葱发射器",
+      "item.declinera_primary_core_part.name": "没落初等核心碎片",
+      "item.declinera_essential_hoe.name": "没落必要锄子",
+      "item.luzi_dust.name": "路梓粉",
+      "item.luzi_armorboots.name": "路梓靴子",
+      "item.declinera_primary.name": "没落初等矿",
+      "item.declinera_essential_ingot.name": "没落必要矿",
+      "item.declinera_middle_core.name": "没落中级核心",
+      "item.declinera_essential_sword.name": "没落必要剑",
+      "tile.luzi_block.name": "路梓矿块",
+      "tile.declinera_primary_ore.name": "没落初等矿石",
+      "item.luzi_shovel.name": "路梓铲",
+      "item.luzi_armorlegs.name": "路梓护腿",
+      "item.declinera_primary_core.name": "没落初等核心",
+      "tile.compress_cobblestone_9x_64.name": "压缩鹅卵石（9*16）",
+      "item.luzi_sword.name": "路梓剑",
+      "item.declinera_primary_shovel.name": "没落初等铲",
+      "item.declinera_primary_hoe.name": "没落初等锄",
+      "item.declinera_essential_armorbody.name": "没落必要胸甲",
+      "item.luzi_pickaxe.name": "路梓镐",
+      "item.declinera_primary_armorboots.name": "没落初等靴",
+      "item.declinera_essential_axe.name": "没落必要斧",
+      "item.declinera_primary_sword.name": "没落初等剑",
+      "item.declinera_primary_armorlegs.name": "没落初等护腿",
+      "item.luzi_armorhelmet.name": "路梓头盔",
+      "item.declinera_essential_armorhelmet.name": "没落必要头盔",
+      "tile.luzi_ore.name": "路梓矿石",
+      "item.food_of_mint.name": "大葱头",
+      "item.declinera_essential_armorlegs.name": "没落必要护腿",
+      "tile.declinera_base_shapeshiftor.name": "没落变形机",
+      "item.declinera_primary_pickaxe.name": "没落初等镐",
+      "item.declinera_primary_armorhelmet.name": "没落初等头盔",
+      "tile.declinera_primary_block.name": "没落初等块",
+      "tile.declinera_base_package.name": "基本包裹机",
+      "item.luzi_axe.name": "路梓斧",
+      "item.declinera_primary_axe.name": "没落初等斧",
+      "item.declinera_primary_armorbody.name": "没落初等胸甲",
+      "item.declinera_essential_pickaxe.name": "没落必要镐",
+      "tile.declinera_essential_block.name": "没落必要矿块",
+      "tile.mint.name": "大葱",
+      "itemGroup.tabdeclinera_base": "没落基本",
+      "item.declinera_essential_armorboots.name": "没落必要靴子",
+      "tile.declinera_base_ender_generator.name": "末影能量发生器",
+      "tile.declinera_base_compressor.name": "基本压缩机",
+      "tile.declinera_essential_ore.name": "没落必要矿石",
+      "item.declinera_essential_shovel.name": "没落必要铲子",
+      "item.luzi_armorbody.name": "路梓胸甲",
+      "item.luzi_hoe.name": "路梓锄",
+      "item.declinera_base_core.name": "没落基础核心"
+    },
+    "ja_jp": {
+      "item.mint_launcher.name": "大葱发射器",
+      "item.declinera_primary_core_part.name": "前世紀のプライマリコアフラグメント",
+      "item.declinera_essential_hoe.name": "前世紀に必要な鍬",
+      "item.luzi_dust.name": "路梓粉",
+      "item.luzi_armorboots.name": "路梓靴子",
+      "item.declinera_primary.name": "没落初等矿",
+      "item.declinera_essential_ingot.name": "没落必要矿",
+      "item.declinera_middle_core.name": "Declinera Middle Core",
+      "item.declinera_essential_sword.name": "没落必要剑",
+      "tile.luzi_block.name": "路梓矿块",
+      "tile.declinera_primary_ore.name": "没落初等矿石",
+      "item.luzi_shovel.name": "路梓铲",
+      "item.luzi_armorlegs.name": "路梓护腿",
+      "item.declinera_primary_core.name": "没落初等核心",
+      "tile.compress_cobblestone_9x_64.name": "压缩鹅卵石（9*16）",
+      "item.luzi_sword.name": "路梓剑",
+      "item.declinera_primary_shovel.name": "没落初等铲",
+      "item.declinera_primary_hoe.name": "没落初等锄",
+      "item.declinera_essential_armorbody.name": "前世紀の産業的に必要な胸当て",
+      "item.luzi_pickaxe.name": "路梓镐",
+      "item.declinera_primary_armorboots.name": "前世紀のエレメンタリーブーツ",
+      "item.declinera_essential_axe.name": "前世紀に必要な斧",
+      "item.declinera_primary_sword.name": "前世紀の初歩的な刀",
+      "item.declinera_primary_armorlegs.name": "前世紀のエレメンタリーレギンス",
+      "item.luzi_armorhelmet.name": "路梓头盔",
+      "item.declinera_essential_armorhelmet.name": "没落必要头盔",
+      "tile.luzi_ore.name": "路梓矿石",
+      "item.food_of_mint.name": "大葱头",
+      "item.declinera_essential_armorlegs.name": "没落必要护腿",
+      "tile.declinera_base_shapeshiftor.name": "Declinera Base Shapeshiftor",
+      "item.declinera_primary_pickaxe.name": "没落初等镐",
+      "item.declinera_primary_armorhelmet.name": "没落初等头盔",
+      "tile.declinera_primary_block.name": "没落初等块",
+      "tile.declinera_base_package.name": "基本包裹机",
+      "item.luzi_axe.name": "路梓斧",
+      "item.declinera_primary_axe.name": "没落初等斧",
+      "item.declinera_primary_armorbody.name": "没落初等胸甲",
+      "item.declinera_essential_pickaxe.name": "没落必要镐",
+      "tile.declinera_essential_block.name": "没落必要矿块",
+      "tile.mint.name": "大葱",
+      "itemGroup.tabdeclinera_base": "没落基本",
+      "item.declinera_essential_armorboots.name": "没落必要靴子",
+      "tile.declinera_base_ender_generator.name": "末影能量发生器",
+      "tile.declinera_base_compressor.name": "基本压缩机",
+      "tile.declinera_essential_ore.name": "没落必要矿石",
+      "item.declinera_essential_shovel.name": "没落必要铲子",
+      "item.luzi_armorbody.name": "路梓胸甲",
+      "item.luzi_hoe.name": "路梓锄",
+      "item.declinera_base_core.name": "没落基础核心"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "declinera",
+    "modName": "declinera",
+    "version": "1.0.0",
+    "description": "declinera",
+    "author": "lingyunmo",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.declinera",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

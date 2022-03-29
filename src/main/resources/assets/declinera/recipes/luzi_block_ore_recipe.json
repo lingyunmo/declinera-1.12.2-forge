@@ -1,0 +1,13 @@
+{
+  "group": "declinera",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "declinera:luzi_block"
+    }
+  ],
+  "result": {
+    "item": "declinera:luzi_dust",
+    "count": 9
+  }
+}

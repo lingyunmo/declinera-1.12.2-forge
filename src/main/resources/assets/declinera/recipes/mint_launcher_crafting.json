@@ -1,0 +1,42 @@
+{
+  "group": "declinera",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "declinera:mint"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "declinera:mint"
+    },
+    "4": {
+      "item": "declinera:food_of_mint"
+    },
+    "5": {
+      "item": "declinera:mint"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "declinera:mint"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "declinera:mint_launcher",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "declineraessential_shovel",
+    "customModelName": "Normal",
+    "name": "DeclineraEssential Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DeclineraBase"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.3,
+    "enchantability": 14,
+    "damageVsEntity": 8.0,
+    "usageCount": 250,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:DeclineraEssentialIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

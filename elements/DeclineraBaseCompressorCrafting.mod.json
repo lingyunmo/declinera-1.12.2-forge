@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "CUSTOM:DeclineraPrimary"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "CUSTOM:DeclineraEssentialIngot"
+      },
+      {
+        "value": "CUSTOM:DeclineraBaseCore"
+      },
+      {
+        "value": "CUSTOM:DeclineraEssentialIngot"
+      },
+      {
+        "value": "CUSTOM:DeclineraEssentialIngot"
+      },
+      {
+        "value": "CUSTOM:DeclineraEssentialBlock"
+      },
+      {
+        "value": "CUSTOM:DeclineraEssentialIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DeclineraBaseCompressor"
+    },
+    "name": "declinera_base_compressor_crafting",
+    "namespace": "mod"
+  }
+}

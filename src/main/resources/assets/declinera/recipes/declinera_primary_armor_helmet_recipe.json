@@ -1,0 +1,32 @@
+{
+  "group": "declinera",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "declinera:declinera_primary"
+    },
+    "1": {
+      "item": "declinera:declinera_primary"
+    },
+    "2": {
+      "item": "declinera:declinera_primary"
+    },
+    "3": {
+      "item": "declinera:declinera_primary"
+    },
+    "4": {
+      "item": "declinera:declinera_primary_core"
+    },
+    "5": {
+      "item": "declinera:declinera_primary"
+    }
+  },
+  "result": {
+    "item": "declinera:declinera_primary_armorhelmet",
+    "count": 1
+  }
+}

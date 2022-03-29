@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "declinera:blocks/declinera_base_compressor_img_top_bottom",
+    "up": "declinera:blocks/declinera_base_compressor_img_top_bottom",
+    "north": "declinera:blocks/declinera_base_compressor_img_front",
+    "east": "declinera:blocks/declinera_base_compressor_img_left_right_back",
+    "south": "declinera:blocks/declinera_base_compressor_img_left_right_back",
+    "west": "declinera:blocks/declinera_base_compressor_img_left_right_back",
+    "particle": "declinera:blocks/declinera_base_compressor_img_top_bottom"
+  }
+}

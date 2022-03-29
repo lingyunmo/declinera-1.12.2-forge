@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "declinera:blocks/compress_cobblestone_9x64_img",
+    "up": "declinera:blocks/compress_cobblestone_9x64_img",
+    "north": "declinera:blocks/compress_cobblestone_9x64_img",
+    "east": "declinera:blocks/compress_cobblestone_9x64_img",
+    "south": "declinera:blocks/compress_cobblestone_9x64_img",
+    "west": "declinera:blocks/compress_cobblestone_9x64_img",
+    "particle": "declinera:blocks/compress_cobblestone_9x64_img"
+  }
+}

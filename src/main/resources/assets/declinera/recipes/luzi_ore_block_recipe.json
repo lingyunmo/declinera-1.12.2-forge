@@ -1,0 +1,42 @@
+{
+  "group": "declinera",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "declinera:luzi_dust"
+    },
+    "1": {
+      "item": "declinera:luzi_dust"
+    },
+    "2": {
+      "item": "declinera:luzi_dust"
+    },
+    "3": {
+      "item": "declinera:luzi_dust"
+    },
+    "4": {
+      "item": "declinera:luzi_dust"
+    },
+    "5": {
+      "item": "declinera:luzi_dust"
+    },
+    "6": {
+      "item": "declinera:luzi_dust"
+    },
+    "7": {
+      "item": "declinera:luzi_dust"
+    },
+    "8": {
+      "item": "declinera:luzi_dust"
+    }
+  },
+  "result": {
+    "item": "declinera:luzi_block",
+    "count": 1
+  }
+}

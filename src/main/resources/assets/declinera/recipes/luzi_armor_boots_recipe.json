@@ -1,0 +1,26 @@
+{
+  "group": "declinera",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "declinera:luzi_dust"
+    },
+    "2": {
+      "item": "declinera:luzi_dust"
+    },
+    "3": {
+      "item": "declinera:luzi_dust"
+    },
+    "5": {
+      "item": "declinera:luzi_dust"
+    }
+  },
+  "result": {
+    "item": "declinera:luzi_armorboots",
+    "count": 1
+  }
+}

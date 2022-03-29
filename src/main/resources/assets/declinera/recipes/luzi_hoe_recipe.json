@@ -1,0 +1,27 @@
+{
+  "group": "declinera",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "declinera:luzi_dust"
+    },
+    "1": {
+      "item": "declinera:luzi_dust"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "declinera:luzi_hoe",
+    "count": 1
+  }
+}

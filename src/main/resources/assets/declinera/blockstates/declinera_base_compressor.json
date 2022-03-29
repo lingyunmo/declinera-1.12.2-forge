@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "declinera:declinera_base_compressor"
+    },
+    "facing=north": {
+      "model": "declinera:declinera_base_compressor"
+    },
+    "facing=east": {
+      "model": "declinera:declinera_base_compressor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "declinera:declinera_base_compressor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "declinera:declinera_base_compressor",
+      "y": 270
+    }
+  }
+}
