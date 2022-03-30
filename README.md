@@ -1,4 +1,7 @@
 # declinera
+
+右侧release内提供下载，请勿选择后缀有dev的版本，那是为开发者提供的反混淆版本。
+
 minecraft mod in forge
 更新内容
 
