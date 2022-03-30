@@ -1,0 +1,37 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "declinera:declinera_middle_sword"
+    },
+    "title": {
+      "translate": "advancements.declinera_middle_prepare.title"
+    },
+    "description": {
+      "translate": "advancements.declinera_middle_prepare.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "declinera_middle_prepare": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "declinera:declinera_middle_sword",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

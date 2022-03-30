@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Declinera Central",
+    "icon": {
+      "value": "CUSTOM:DeclineraMiddleCore"
+    },
+    "showSearch": false
+  }
+}

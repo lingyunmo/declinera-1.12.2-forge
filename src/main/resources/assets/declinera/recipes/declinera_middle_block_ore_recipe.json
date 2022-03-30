@@ -1,0 +1,13 @@
+{
+  "group": "declinera",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "declinera:declinera_middle_block"
+    }
+  ],
+  "result": {
+    "item": "declinera:declinera_middle",
+    "count": 9
+  }
+}

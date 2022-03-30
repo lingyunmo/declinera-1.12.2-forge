@@ -1,0 +1,30 @@
+{
+  "group": "declinera",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "declinera:declinera_middle"
+    },
+    "1": {
+      "item": "declinera:declinera_middle"
+    },
+    "2": {
+      "item": "declinera:declinera_middle"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "declinera:declinera_middle_axe",
+    "count": 1
+  }
+}

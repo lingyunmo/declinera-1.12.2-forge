@@ -3,10 +3,10 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "declinera_middle_core_img",
+    "texture": "declineramiddle_gem",
     "customModelName": "Normal",
-    "name": "Declinera Middle Core",
-    "rarity": "UNCOMMON",
+    "name": "DeclineraMiddle",
+    "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:DeclineraCentral"
     },
@@ -19,7 +19,7 @@
       "value": ""
     },
     "destroyAnyBlock": false,
-    "immuneToFire": true,
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
