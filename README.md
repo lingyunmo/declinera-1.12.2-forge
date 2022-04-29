@@ -49,3 +49,9 @@ minecraft mod in forge
 没落中级剑持有时给予60tick速度1效果
 
 增加生物路梓
+
+2022/4/29
+
+1.12.2-forge版本不再更新
+
+后续版本为1.16.5-forge，具体内容可见于：https://github.com/lingyunmo/declinera-1.16.5-forge
